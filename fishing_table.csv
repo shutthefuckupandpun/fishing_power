@@ -1,0 +1,56 @@
+type,item,power
+pole,Fiberglass Fishing Pole,27
+pole,Fisher of Souls,20
+pole,Fleshcatcher,22
+pole,Golden Fishing Rod,50
+pole,Hotline Fishing Hook,45
+pole,Mechanic's Rod,30
+pole,Reinforced Fishing Pole,15
+pole,Sitting Duck's Fishing Pole,40
+pole,Wood Fishing Pole,5
+bait,Apprentice Bait,15
+bait,Black Scorpion,15
+bait,Blue Jellyfish,20
+bait,Buggy,40
+bait,Enchanted Nightcrawler,35
+bait,Firefly,20
+bait,Glowing Snail,15
+bait,Gold Butterfly,50
+bait,Gold Grasshopper,50
+bait,Gold Worm,50
+bait,Grasshopper,10
+bait,Green Jellyfish,20
+bait,Grubby,15
+bait,Journeyman Bait,30
+bait,Julia Butterfly,25
+bait,Lightning Bug,35
+bait,Master Bait,50
+bait,Monarch Butterfly,5
+bait,Pink Jellyfish,20
+bait,Purple Emperor Butterfly,35
+bait,Red Admiral Butterfly,30
+bait,Scorpion,10
+bait,Sluggy,25
+bait,Snail,10
+bait,Sulphur Butterfly,10
+bait,Tree Nymph Butterfly,50
+bait,Truffle Worm,666
+bait,Ulysses Butterfly,20
+bait,Worm,25
+bait,Zebra Swallowtail Butterfly,15
+time,0:00,-0.2
+time,2:42,0
+time,4:30,0.3
+time,6:00,0
+time,9:00,-0.2
+time,15:00,0
+time,18:00,0.3
+time,19:30,0
+time,21:18,-0.2
+moon,Full,0.1
+moon,Gibbous,0.05
+moon,Crescent,-0.05
+moon,New,-0.1
+weather,Clear,0
+weather,Cloudy,0.1
+weather,Rainy,0.3
